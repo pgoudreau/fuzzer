@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mapbox/fuzzer.svg?branch=master)](https://travis-ci.org/mapbox/fuzzer)
+[![Build Status](https://travis-ci.org/pgoudreau/fuzzer.svg?branch=master)](https://travis-ci.org/pgoudreau/fuzzer)
 
 # fuzzer
 
